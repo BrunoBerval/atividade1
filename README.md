@@ -10,7 +10,7 @@ Aplicativo Flutter para coletar, armazenar e consultar localizações do aparelh
 ## 👥 Autores
 
 > **Bruno Berval Moreira de Godoi**  
-> **________________________________________**
+> **Suelen Souza de Castro**
 
 ## ✨ Recursos
 
