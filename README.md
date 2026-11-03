@@ -14,7 +14,7 @@ Aplicativo Flutter para coletar, armazenar e consultar localizações do aparelh
 
 ## ✨ Recursos
 
-- 📡 Coleta de posição usando GPS e alta precisão.
+- 📡 Coleta de posição usando GPS e alta precisão
 - ⏱️ Atualizações configuradas em intervalos de 20 segundos no Android.
 - 🔔 Notificação persistente durante a coleta em primeiro plano.
 - 💾 Gravação local da latitude, longitude, precisão e instante da leitura em UTC.
