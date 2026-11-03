@@ -7,6 +7,11 @@
 
 Aplicativo Flutter para coletar, armazenar e consultar localizações do aparelho. Os registros são salvos localmente em SQLite e podem ser visualizados em uma lista ou em um mapa com tiles do OpenStreetMap.
 
+## 👥 Autores
+
+> **Bruno Berval Moreira de Godoi**  
+> **________________________________________**
+
 ## ✨ Recursos
 
 - 📡 Coleta de posição usando GPS e alta precisão.
@@ -111,10 +116,6 @@ Os ícones usados pelo aplicativo ficam em `assets/icons/` e nos recursos Androi
 ## 🗺️ Atribuição cartográfica
 
 Os tiles são carregados de `tile.openstreetmap.org`. O mapa exibe a atribuição **© OpenStreetMap contributors**, com link para as informações de copyright. O aplicativo envia seu identificador Android (`com.example.atividade1`) como nome de pacote do cliente de tiles.
-
-## 👥 Integrantes
-
-- Adicione aqui os nomes dos integrantes do projeto.
 
 ## 📄 Licença
 
